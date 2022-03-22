@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+body {
+    background: rgb(97,0,112);
+    background: linear-gradient(90deg, rgba(97,0,112,1) 0%, rgba(9,9,121,1) 50%, rgba(0,212,255,1) 100%); 
+    color: white;
+
+    font-family: 'Rubik', sans-serif;
+}
+
